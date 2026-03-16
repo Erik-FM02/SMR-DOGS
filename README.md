@@ -24,4 +24,7 @@ Para hacer todo esto, los comandos principales que hemos usado han sido:
 - echo y cat
 - git pull
 - git add .
->>>>>>> b991e148f4f5976d46f0f6a1411b4a3010670c2d
+
+
+Lo Más Importante Del Reto Grupal
+Lo más crítico y valioso de este reto ha sido la Gestión de Conflictos (Merge Conflicts). Hemos aprendido que cuando dos personas editan la misma línea de un archivo, Git protege la integridad del código y nos obliga a intervenir manualmente.
